@@ -1,7 +1,7 @@
 {
-    "name": "OPOS",
-    "symbol": "OPOS",
-    "description": "Only Possible On Solana",
+    "name": "badboy",
+    "symbol": "BADBOY",
+    "description": "Solo posible en Solana",
     "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
     "attributes": [
       {
