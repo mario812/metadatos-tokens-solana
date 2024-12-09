@@ -2,7 +2,7 @@
     "name": "badboy",
     "symbol": "BADBOY",
     "description": "metadatos de Mario",
-    "image": "https://github.com/mario812/metadatos-tokens-solana/blob/main/assets/image1.jpg"
+    "image": "https://github.com/mario812/metadatos-tokens-solana/blob/main/assets/meme.png?raw=true"
     "attributes": [
       {
         "trait_type": "Item",
