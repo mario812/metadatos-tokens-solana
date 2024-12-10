@@ -2,8 +2,7 @@
     "name": "marioL",
     "symbol": "MLCT",
     "description": "metadatos de Mario",
-    "image": "https://static.onecms.io/wp-content/uploads/sites/6/2018/08/simp_homersingle08_f_hires2-2000.jpg
-"
+    "image": "https://static.onecms.io/wp-content/uploads/sites/6/2018/08/simp_homersingle08_f_hires2-2000.jpg"
     "attributes": [
       {
         "trait_type": "Item",
