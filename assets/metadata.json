@@ -2,7 +2,7 @@
     "name": "marioL",
     "symbol": "MLCT",
     "description": "metadatos de Mario",
-    "image": "https://github.com/mario812/metadatos-tokens-solana/blob/main/assets/meme.png?raw=true"
+    "image": "https://raw.githubusercontent.com/mario812/metadatos-tokens-solana/refs/heads/main/assets/meme.png"
     "attributes": [
       {
         "trait_type": "Item",
